@@ -8,11 +8,13 @@
 #
 ##############################################################################
 {
-    'name': "Purchase Reminder",
+    'name': "Purchase Reminder UCS",
     'summary': "Purchase Quotation Due Date Reminder",
     'description': """Purchase Quotation Due Date Reminder Odoo application helps businesses manage purchase quotations efficiently by adding a due date and sending automated email reminders""",
     "version": "17.0",
     "category": "Extra Tools",
+    'price': 15,
+    'currency': 'USD',
     "website": "https://uncannycs.com",
     "author": "Uncanny Consulting Services LLP",
     "maintainers": "Uncanny Consulting Services LLP",
